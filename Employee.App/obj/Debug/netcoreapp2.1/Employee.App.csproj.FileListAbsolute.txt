@@ -1,0 +1,11 @@
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.csprojAssemblyReference.cache
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.csproj.CoreCompileInputs.cache
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.AssemblyInfoInputs.cache
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.AssemblyInfo.cs
+D:\Project\AssurantAssignment\Employee.App\bin\Debug\netcoreapp2.1\Employee.App.deps.json
+D:\Project\AssurantAssignment\Employee.App\bin\Debug\netcoreapp2.1\Employee.App.runtimeconfig.json
+D:\Project\AssurantAssignment\Employee.App\bin\Debug\netcoreapp2.1\Employee.App.runtimeconfig.dev.json
+D:\Project\AssurantAssignment\Employee.App\bin\Debug\netcoreapp2.1\Employee.App.dll
+D:\Project\AssurantAssignment\Employee.App\bin\Debug\netcoreapp2.1\Employee.App.pdb
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.dll
+D:\Project\AssurantAssignment\Employee.App\obj\Debug\netcoreapp2.1\Employee.App.pdb

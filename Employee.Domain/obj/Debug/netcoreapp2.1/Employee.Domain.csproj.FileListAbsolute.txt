@@ -1,0 +1,9 @@
+D:\Project\AssurantAssignment\Employee.Domain\bin\Debug\netcoreapp2.1\Employee.Domain.deps.json
+D:\Project\AssurantAssignment\Employee.Domain\bin\Debug\netcoreapp2.1\Employee.Domain.dll
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.csprojAssemblyReference.cache
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.csproj.CoreCompileInputs.cache
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.AssemblyInfoInputs.cache
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.AssemblyInfo.cs
+D:\Project\AssurantAssignment\Employee.Domain\bin\Debug\netcoreapp2.1\Employee.Domain.pdb
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.dll
+D:\Project\AssurantAssignment\Employee.Domain\obj\Debug\netcoreapp2.1\Employee.Domain.pdb

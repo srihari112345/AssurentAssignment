@@ -1,0 +1,17 @@
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Api.deps.json
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Api.runtimeconfig.json
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Api.runtimeconfig.dev.json
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Api.dll
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.csprojAssemblyReference.cache
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.csproj.CoreCompileInputs.cache
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.RazorAssemblyInfo.cache
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.RazorAssemblyInfo.cs
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.AssemblyInfoInputs.cache
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.AssemblyInfo.cs
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.RazorTargetAssemblyInfo.cache
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Api.pdb
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Domain.dll
+D:\Project\AssurantAssignment\Employee.Api\bin\Debug\netcoreapp2.1\Employee.Domain.pdb
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.csproj.CopyComplete
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.dll
+D:\Project\AssurantAssignment\Employee.Api\obj\Debug\netcoreapp2.1\Employee.Api.pdb
